@@ -1,1 +1,0 @@
-AI was used to generate the initial outline of CSS rules based on the tasks listed in the assignment guidelines. However, we ensured a clear understanding of the suggested design decisions by comparing the output with and without each declaration. We also experimented with the rules by modifying values to observe their effect and refine the final output.
